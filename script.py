@@ -6,3 +6,7 @@ username = request.parametre("getname");
 
 
 }
+
+def logout("/"){
+	
+}
